@@ -9,6 +9,10 @@ ipython = "*"
 [packages]
 boto3 = "*"
 click = "*"
+botocore = "*"
+pathlib = "*"
+mimetypes = "*"
+ipython = "*"
 
 [requires]
 python_version = "3.5"

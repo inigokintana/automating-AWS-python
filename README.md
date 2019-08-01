@@ -7,4 +7,4 @@ Features:
 	- List contents of buckets
 	- Setup new buckets
 	- Sync
-	-
+	- New env- python 3.7 new Pipfile
